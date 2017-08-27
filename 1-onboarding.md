@@ -55,7 +55,7 @@ There are a few social networks that we're part of that we'd love for you to **f
 5. Angel List: [@Pinpt](https://angel.co/pinpt)
 6. Google+: [Pinpoint](https://plus.google.com/117342917449995386258)
 7. #EngOps Newsletter: [EngOps.is](http://engops.is/)
-8. Pinpoint Blog: [blog.pinpt.co](https://blog.pinpt.co/) (Subscribe for updates)
+8. Pinpoint Blog: [blog.pinpt.com](https://blog.pinpt.com/) (Subscribe for updates)
 
 On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point!
 
