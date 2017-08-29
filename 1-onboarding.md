@@ -59,6 +59,6 @@ There are a few social networks that we're part of that we'd love for you to **f
 
 On the last point, we'd love for you to contribute! We can give you publishing access to our blog and if you write something on your own blog (or Medium.com) we could reblog it as well! The more the merrier at this point!
 
-Oh, and one final thing while we're on the topic of blogs... we've written consistently about how we started putting the company and the product together, [almost from Day #1](https://blog.pinpt.co/build-better-software/). This isn't *required* reading but it could certainly give you a lot of context for where we've been and what we've been dreaming about since the beginning. 
+Oh, and one final thing while we're on the topic of blogs... we've written consistently about how we started putting the company and the product together, [almost from Day #1](https://blog.pinpt.com/build-better-software/). This isn't *required* reading but it could certainly give you a lot of context for where we've been and what we've been dreaming about since the beginning. 
 
 Might be fun to read how far we've come and it would certainly give you a deeper and wider perspective.
