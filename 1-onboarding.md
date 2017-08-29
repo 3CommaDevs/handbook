@@ -49,7 +49,7 @@ Also, you may feel inclined to share the news of Pinpoint via social media and w
 There are a few social networks that we're part of that we'd love for you to **follow** and even **add them** to your profiles! There is, of course, no pressure to do so.
 
 1. Twitter: [@WhatIsPinpoint](http://twitter.com/whatispinpoint)
-2. LinkedIn: [PinPT Inc](https://www.linkedin.com/company-beta/16164522/)
+2. LinkedIn: [PinPT Inc](https://www.linkedin.com/company/16164522/)
 3. Facebook: [Pinptco](https://www.facebook.com/pinptco/)
 4. Instagram: [@Pinptco](https://www.instagram.com/pinptco/)
 5. Angel List: [@Pinpt](https://angel.co/pinpt)
