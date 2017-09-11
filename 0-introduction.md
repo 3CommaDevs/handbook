@@ -54,3 +54,7 @@ Rick Blalock started his career creating a small development shop, in Jupiter, F
 #### Brad Hipps
 
 TBD...
+
+#### Matthew Congrove
+
+Matt began his software career in 2007 with go2 Media, a mobile web destination based in Boston, MA. From there he went to Brightcove, an online video platform, where he worked in professional services. During that time he also helped launch Svpply, a social shopping website, which was acquired by eBay in 2012. He started working with Jeff and Nolan at Appcelerator in 2011, filling a variety of roles. Matt volunteers his time in the Civil Air Patrol (US Air Force Auxiliary), loves college football (go Hokies!), and lives with his wife in Austin, TX.
